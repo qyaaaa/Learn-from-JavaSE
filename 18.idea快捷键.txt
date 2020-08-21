@@ -1,0 +1,23 @@
+搜索类：Ctrl + N
+搜索文件：Ctrl + Shift + N
+代码补全提示：Ctrl + Alt + 空格 （本人习惯配置用Alt + / ）
+查询在某处使用：Alt + F7
+查看代码提示以及内容：Ctrl + Q
+查看类的声明，即跳转到指定的类：鼠标放在要查看的类名上，按Ctrl + B（或者长按Ctrl，再用鼠标点击类名）
+查看文件列表：Ctrl + F12
+复制代码：Ctrl + D
+删除代码：Ctrl + Y
+导入包：Alt + Enter
+生成默认变量名：如果有未定义变量名的类型语句，例如new Date();，鼠标放在此行，按Alt + Enter ，会生成默认变量，例如Date date = new Date();
+重命名：例如重命名类名，选择某个类，按 Shift + F6
+单行注释：Ctrl + /
+多行注释：选中区域，Ctrl + Shift + /
+生成get/set/toString等方法：Alt + Insert
+生成try/catch，if/else，for等包含块：Ctrl + Alt + T
+查看接口或抽象类的子类：Ctrl + Alt + B
+补全结尾：Ctrl + Shift + Enter回车，例如String name= "Mr.nobody，光标在此行代码，按Ctrl + Shift + Enter回车自动补全结尾，变成String name = "Mr.nobody";。
+自动代码生成模板列表：Ctrl + J。例如按Ctrl + J之后，再选择或者输入fori再回车，会自动生成for (int i = 0; i < ; i++) {}代码。当然也可以不按Ctrl + J显示列表，直接输出快捷键，例如fori，例如有个数组对象students，直接输入students.for再回车也能自动生成for代码块。
+格式化代码：Ctrl + Alt + L
+自动缩进：Ctrl + Alt + I
+显示最近修改的代码：Ctrl + E
+方法参数提示：Ctrl + P
