@@ -1,0 +1,6 @@
+//随即数公式[a,b]  
+即(int)(Math.random()*(b-a+1)+a)
+
+阿里云密码Qiaoyu1055575039@
+
+Administrator
